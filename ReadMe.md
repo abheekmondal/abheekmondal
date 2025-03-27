@@ -1,3 +1,5 @@
+![angry coder](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg3eG94cDVjYXFqd2R4MmN0amdsNHJzdXZ0NHhxam9xMjBhdm01cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HCwnYWnMgLZUW1BtP2/giphy.webp)
+
 # 💫 About Me:
 I am a Cybersecurity Consultant with experience designing and implementing secure, resilient infrastructures for organizations across diverse sectors. My expertise includes performing in-depth risk assessments, identifying vulnerabilities, and developing tailored security solutions to mitigate threats. <br>🌱 I’m currently taking the C|EH and C|EH Practical courses.
 
