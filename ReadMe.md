@@ -1,7 +1,7 @@
 ![angry coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAwb3EwNTlsbjNjaTExdnhoaXpsOGNxdDY0eXJldHU3OW9jeXRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4u2m1dohaG4hy0/giphy.gif)
 
 # 💫 About Me:
-I am a Cybersecurity Consultant with experience designing and implementing secure, resilient infrastructures for organizations across diverse sectors. My expertise includes performing in-depth risk assessments, identifying vulnerabilities, and developing tailored security solutions to mitigate threats. Check out my full portfolio @ [https://abheekmondal.github.io/]abheekmondal.github.io <br>🌱 I’m currently taking the C|EH and C|EH Practical courses.
+I am a Cybersecurity Consultant with experience designing and implementing secure, resilient infrastructures for organizations across diverse sectors. My expertise includes performing in-depth risk assessments, identifying vulnerabilities, and developing tailored security solutions to mitigate threats. Check out my full portfolio @ [https://abheekmondal.github.io](abheekmondal.github.io)  <br>🌱 I’m currently taking the C|EH and C|EH Practical courses.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=purple)](https://discord.gg/390333336503058433) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=orange)](https://instagram.com/abheekmondal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://linkedin.com/in/abheekmondal) 
